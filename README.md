@@ -18,6 +18,7 @@ Hey there!
  - Discord: 1337Nirflector#1627
  - E-Mail: nirflector@gmail.com
  - Homepage: <Coming Soon>
+ - Instagram: https://www.instagram.com/nirflection/?hl=de
+ - Linktree: https://linktr.ee/1337Nirflector
  - SpigotMC : https://www.spigotmc.org/members/1337nirflector.1015805/
  - Twitter: https://twitter.com/Nirflection
- - Instagram: https://www.instagram.com/nirflection/?hl=de
