@@ -4,12 +4,11 @@ Hey there!
 🤵 About Me 🤵
  - Date of birth: 08.04.2005
  - Gender: Male
- - Occupation: Highschool Student
+ - Occupation: Student
  - Place of Residence: Lower Saxony, Germany
- - Freetime activities: Beach-Volleyball, Chess, Football, Handball, Music, Swimming, Tennis, Table-Tennis
 
 🖥️ Skills 🖥️
- - Languages: German (Native language), English
+ - Languages: German (Native language), English, France, Italian
  - Programming languages: jQuery, Java, JavaScript, Kotlin, SQL
  - Other languages: HTML, CSS
  - Currently learning: Angular & Nest.js, Rust, Vue.js
