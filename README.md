@@ -2,14 +2,15 @@
 Hey there!
 
 🤵 About Me 🤵
- Hi, there!👋
- My name is Nirflector and I'm a young developer & producer from Germany. 
+ - Date of Birth: 08.04.2005
+ - Location: Lower Saxony, German
+ - Occupation: Student
 
 🖥️ Skills 🖥️
- - Languages: German (Native language), English, France, Italian
- - Programming languages: jQuery, Java, JavaScript, Kotlin, SQL
+ - Languages: German (Native language), English, French, Italian
+ - Programming languages: jQuery, Java, JavaScript, SQL
  - Other languages: HTML, CSS
- - Currently learning: Angular & Nest.js, Rust, Vue.js
+ - Currently learning: Kotlin
 
 📞 Contact 📞
  - Discord: 1337Nirflector#1627
@@ -19,3 +20,4 @@ Hey there!
  - Linktree: https://linktr.ee/1337Nirflector
  - SpigotMC : https://www.spigotmc.org/members/1337nirflector.1015805/
  - Twitter: https://twitter.com/Nirflection
+ - GitLab: https://gitlab.com/1337Nirflector
