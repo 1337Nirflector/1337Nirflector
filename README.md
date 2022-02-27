@@ -2,7 +2,8 @@
 Hey there!
 
 🤵 About Me 🤵
- Hi, there!👋 My name is Nirflector and I'm a young developer & producer from Germany. 
+ Hi, there!👋
+ My name is Nirflector and I'm a young developer & producer from Germany. 
 
 🖥️ Skills 🖥️
  - Languages: German (Native language), English, France, Italian
