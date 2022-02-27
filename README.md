@@ -2,10 +2,7 @@
 Hey there!
 
 🤵 About Me 🤵
- - Date of birth: 08.04.2005
- - Gender: Male
- - Occupation: Student
- - Place of Residence: Lower Saxony, Germany
+ Hi, there!👋 My name is Nirflector and I'm a young developer & producer from Germany. 
 
 🖥️ Skills 🖥️
  - Languages: German (Native language), English, France, Italian
