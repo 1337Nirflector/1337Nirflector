@@ -8,7 +8,7 @@ Hey there!
 
 🖥️ Skills 🖥️
  - Languages: German (Native language), English, French, Italian
- - Programming languages: jQuery, Java, JavaScript, SQL
+ - Programming languages: Java, JavaScript, SQL
  - Other languages: HTML, CSS
  - Currently learning: Kotlin
 
