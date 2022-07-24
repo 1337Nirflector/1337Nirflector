@@ -11,6 +11,4 @@ My skills:
 ___
 When I was 10, I started creating own songs with [MAGIX Music Maker](https://www.magix.com/). I practiced a lot, but I felt really limited, so I decided to continue using a more professional DAW and I installed [FL Studio](https://www.image-line.com/). Fruity Loops is still my favourite DAW and I still enjoy making music. If you want to listen, have a look at my [SoundCloud](https://soundcloud.com/valentino-asoleri) and leave a like. :wink: :sound:
 ___
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1337Nirflector&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
