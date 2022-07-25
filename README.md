@@ -1,6 +1,6 @@
 Welcome to my GitHub Profile! :wave: My name is Henri and I'm a learning software developer from Germany.
 ___
-I started learning [Java](https://www.java.com/) 6 years ago and developed my first applications. 5 years ago I began developing plugins for [Minecraft](https://www.minecraft.net/) using the [Spigot](https://spigotmc.org/) and [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/) API combined with different plugin APIs. I develop plugins since 5 years and I founded a [Multigaming-Network](https://starvalcity.de/) with 5 friends of mine where I still develop plugins for. Hopefully we can see each other on the network soon! :wink:
+I started learning [Java](https://www.java.com/) in 2016 and developed my first applications. 2017 I began developing plugins for [Minecraft](https://www.minecraft.net/) using the [Spigot](https://spigotmc.org/) and [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/) API combined with different plugin APIs. I develop plugins since 5 years and I founded a [Multigaming-Network](https://starvalcity.de/) with 5 friends of mine where I still develop plugins for. Hopefully we can see each other on the network soon! :wink:
 
 My skills:
 - CSS
