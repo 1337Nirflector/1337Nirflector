@@ -6,6 +6,7 @@ My skills:
 - CSS
 - HTML
 - Java
+- JavaScript
 - Kotlin
 - SQL
 ___
