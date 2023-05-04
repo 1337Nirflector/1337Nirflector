@@ -1,4 +1,4 @@
-Welcome to my GitHub Profile! :wave: I'm Nirflector alias Corion.
+Welcome to my GitHub Profile! :wave: I'm Nirflector alias Hendrik.
 ___
 I started learning [Java](https://www.java.com/) in 2016 and developed my first applications. 2017 I began developing plugins for [Minecraft](https://www.minecraft.net/) using the [Spigot](https://spigotmc.org/) and [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/) API combined with different plugin APIs. I develop plugins since 2017 and I founded a [Multigaming-Network](https://starvalcity.de/) with 5 friends of mine where I still develop plugins for. Hopefully we can see each other on the network soon! :wink:
 
